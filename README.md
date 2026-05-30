@@ -20,4 +20,4 @@ I'm Konga Raviteja, a Computer Science and Engineering undergraduate at Christu 
 ## Connect With Me
 
 • LinkedIn: www.linkedin.com/in/raviteja-konga-0843b2354
-• Email: kongaraviteja98@gamil.com
+• Email: kongaraviteja@gamil.com
