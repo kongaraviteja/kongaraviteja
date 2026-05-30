@@ -15,3 +15,9 @@ I'm Konga Raviteja, a Computer Science and Engineering undergraduate at Christu 
 • Data Visualisation
 • Statistics
 • Git & GitHub
+• Applied AI
+
+## Connect With Me
+
+• LinkedIn: www.linkedin.com/in/raviteja-konga-0843b2354
+• Email: kongaraviteja@gamil.com
