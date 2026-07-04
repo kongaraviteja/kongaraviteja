@@ -3,7 +3,7 @@ Aspiring Data Analyst | Python | SQL | Excel | Power BI
 
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github&logoColor=white)](https://github.com/kongaraviteja)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/raviteja-konga)
-[![Gmail](https://img.shields.io/badge/Gmail-yellow?style=flat-square&logo=gmail&logoColor=white)](mailto:kongaraviteja98@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-cyan?style=flat-square&logo=gmail&logoColor=red)](mailto:kongaraviteja98@gmail.com)
 [![Outlook](https://img.shields.io/badge/Outlook-blue?style=flat-square&logo=microsoft-outlook)](mailto:kongaraviteja98@outlook.com)
 [![Instagram](https://img.shields.io/badge/Instagram-red?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/raviteja_konga)
 
