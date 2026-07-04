@@ -6,6 +6,8 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail)](mailto:kongaraviteja98@gmail.com)
 [![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook)](mailto:kongaraviteja98@outlook.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram)](https://instagram.com/raviteja_konga)
+
+
 I'm Konga Raviteja, a Computer Science and Engineering undergraduate at Christu Jyothi Institute Of Technology and Science with a strong interest in Data Analytics and Applied AI.
 
 • Aspiring Data Analyst
