@@ -1,7 +1,7 @@
 # Hi there👋, I'm Raviteja
 Aspiring Data Analyst | Python | SQL | Excel | Power BI
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/kongaraviteja)
+[![GitHub](https://img.shields.io/badge/GitHub-red?style=flat-square&logo=github)](https://github.com/kongaraviteja)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/raviteja-konga)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail)](mailto:kongaraviteja98@gmail.com)
 [![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=flat-square&logo=microsoft-outlook)](mailto:kongaraviteja98@outlook.com)
