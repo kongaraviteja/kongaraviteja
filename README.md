@@ -1,5 +1,4 @@
-## Hi there 👋,
-# Hi 👋 I'm Raviteja
+# Hi there👋, I'm Raviteja
 Aspiring Data Analyst | Python | SQL | Excel | Power BI
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)](https://github.com/kongaraviteja)
